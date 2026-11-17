@@ -4,7 +4,7 @@
 
 **Name:** Isuru Udeshitha
 
-**Student Registration Number:** PS/2022/036
+**Student Number:** PS/2022/036
 
 **Course:** Mobile Application Development
 
